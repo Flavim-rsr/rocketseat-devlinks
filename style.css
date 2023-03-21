@@ -177,3 +177,7 @@ footer{
     font-size: 14px;
 
 }
+
+footer a {
+    text-decoration: none;
+}
