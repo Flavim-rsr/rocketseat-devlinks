@@ -1,7 +1,7 @@
 <h1 align="center"> Trote Solidário </h1>
 
 <p align="center">
-Site para ajudar e concientizar as pessoas sobre o Trote Solidário de Franca - SP
+Site para ajudar e concientizar as pessoas sobre o Trote Solidário do Centro Universitário Municipal de Franca (Uni- FACEF) 
 </p>
 
 <p align="center">
@@ -26,4 +26,4 @@ O site é um agregador de links para usar como cartão de visitas online.
 
 ---
 
-Feito pelo alunos de <strong>Ciência da Computação e Sistema da Informação.</strong> - [Conheça a universidade](https://www.unifacef.com.br)
+Feito por  <strong> Flavio Rodrigo </strong> - [Conheça a universidade](https://www.unifacef.com.br)
