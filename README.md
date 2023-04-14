@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 O site é um agregador de links para usar como cartão de visitas online.
 
-<a href="https://flavim-rsr.github.io/trotesolidario/">Acesse o projeto finalizado, online</a>
+<a href="https://flavim-rsr.github.io/Rocketseat-Devlinks/">Acesse o projeto finalizado, online</a>
 
 ---
 
